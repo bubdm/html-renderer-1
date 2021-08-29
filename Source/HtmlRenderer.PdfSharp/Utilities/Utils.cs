@@ -10,11 +10,11 @@
 // - Sun Tsu,
 // "The Art of War"
 
-using PdfSharp.Drawing;
 using System.Drawing;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
+using HtmlRenderer.Adapters.Entities;
+using PdfSharp.Drawing;
 
-namespace TheArtOfDev.HtmlRenderer.PdfSharp.Utilities
+namespace HtmlRenderer.PdfSharp.Utilities
 {
     /// <summary>
     /// Utilities for converting WinForms entities to HtmlRenderer core entities.

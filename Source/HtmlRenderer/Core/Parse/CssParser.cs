@@ -14,12 +14,12 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
+using HtmlRenderer.Adapters;
+using HtmlRenderer.Adapters.Entities;
+using HtmlRenderer.Core.Entities;
+using HtmlRenderer.Core.Utils;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Parse
+namespace HtmlRenderer.Core.Parse
 {
     /// <summary>
     /// Parser to parse CSS stylesheet source string into CSS objects.
