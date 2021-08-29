@@ -10,9 +10,9 @@
 // - Sun Tsu,
 // "The Art of War"
 
-using TheArtOfDev.HtmlRenderer.Core.Utils;
+using HtmlRenderer.Core.Utils;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Entities
+namespace HtmlRenderer.Core.Entities
 {
     /// <summary>
     /// Holds single class selector in css block hierarchical selection (p class1 > div.class2)

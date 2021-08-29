@@ -11,11 +11,11 @@
 // "The Art of War"
 
 using System;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
+using HtmlRenderer.Adapters;
+using HtmlRenderer.Adapters.Entities;
 using PdfSharp.Drawing;
 
-namespace TheArtOfDev.HtmlRenderer.PdfSharp.Adapters
+namespace HtmlRenderer.PdfSharp.Adapters
 {
     /// <summary>
     /// Adapter for WinForms graphics path object for core.

@@ -11,12 +11,12 @@
 // "The Art of War"
 
 using System;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Dom;
-using TheArtOfDev.HtmlRenderer.Core.Parse;
+using HtmlRenderer.Adapters;
+using HtmlRenderer.Adapters.Entities;
+using HtmlRenderer.Core.Dom;
+using HtmlRenderer.Core.Parse;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Utils
+namespace HtmlRenderer.Core.Utils
 {
     /// <summary>
     /// Utility method for handling CSS stuff.
